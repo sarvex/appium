@@ -95,7 +95,7 @@
     "@types/node": "18.16.5",
     "@types/semver": "7.3.13",
     "@types/sinon": "10.0.14",
-    "@types/sinon-chai": "3.2.9",
+    "@types/sinon-chai": "3.2.12",
     "@types/teen_process": "2.0.0",
     "@types/ws": "8.5.4",
     "@types/yargs": "17.0.24",
